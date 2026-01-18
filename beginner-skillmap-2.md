@@ -7,7 +7,6 @@
 ## Add Leveling and Enemies
 * name: Make An Rpg
 * description: Learn how to make a scaling Leveling system and enemies
-* completionUrl: /skillmap/certificates/understanding-arcade-tutorials.pdf
 
 ### Add Platforming and HP
 
